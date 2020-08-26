@@ -1,0 +1,1 @@
+In the thrird version we have added the control of the console from your Hyper terminal.
